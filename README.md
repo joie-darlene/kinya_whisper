@@ -64,8 +64,7 @@ choco install ffmpeg
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhirwaVerygood/RwandaVoiceAI-.git
-cd RwandaVoiceAI--main/RwandaVoiceAI--main
+git clone https://github.com/joie-darlene/kinya_whisper
 
 # Set up virtual environment
 python -m venv .venv
